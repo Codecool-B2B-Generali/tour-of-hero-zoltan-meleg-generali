@@ -1,0 +1,19 @@
+{
+  "name": "tour-of-hero-zoltan-meleg-generali",
+  "version": "1.0.0",
+  "description": "## Story",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codecool-B2B-Generali/tour-of-hero-zoltan-meleg-generali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codecool-B2B-Generali/tour-of-hero-zoltan-meleg-generali/issues"
+  },
+  "homepage": "https://github.com/Codecool-B2B-Generali/tour-of-hero-zoltan-meleg-generali#readme"
+}
